@@ -1,6 +1,7 @@
 # AI-Python-Target
 
 They are some projects.
+
 Project 1: Mad libs Python Project
 
 Project 2: Guess the Number Game Python Project (computer)
